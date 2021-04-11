@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction"
+title: "Recipes"
 ---
 
-Some introduction to the concept of creating work through intentional inefficiency
+## Shared Recipes of the Neis-Jobbagy family
