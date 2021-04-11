@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Chorizo Seitan & Tofu Breakfast Scramble – by Amy"
+title: "Chorizo Seitan & Tofu Breakfast Scramble"
+author: "Amy Neis"
 ---
 
 ---
