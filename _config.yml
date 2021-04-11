@@ -2,7 +2,7 @@
 title: Enormousness
 url: http://enormousness.net
 paginate: 1
-baseurl: "http://enormousness.net"
+baseurl: ""
 permalink: pretty
 include: ["_pages"]
 paginate_path: "/baseurl/page:num/"
