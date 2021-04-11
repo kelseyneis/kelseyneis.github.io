@@ -16,6 +16,7 @@ layout: default
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
+          <small>{{ post.author }}</small>
           <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
         </a>
       </li>
