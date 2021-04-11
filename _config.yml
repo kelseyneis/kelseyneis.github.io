@@ -2,9 +2,10 @@
 title: Enormousness
 url: http://enormousness.net
 paginate: 1
-baseurl: ""
+baseurl: "http://enormousness.net"
 permalink: pretty
 include: ["_pages"]
+paginate_path: "/baseurl/page:num/"
 
 # Gems
 plugins:
