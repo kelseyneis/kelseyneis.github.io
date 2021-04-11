@@ -3,5 +3,4 @@ layout: page
 title: About
 ---
 
-# Unity. Friendship. Siblinghood.
-
+## Recipes of the Neis-Jobbagy family
