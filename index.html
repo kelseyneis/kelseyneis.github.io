@@ -12,6 +12,8 @@ title: Home
       </a>
     </h1>
 
+    <p class="post-author">{{ post.author }}</p>
+    <br>
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     {{ post.content }}
