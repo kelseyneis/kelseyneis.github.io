@@ -5,7 +5,6 @@ title: "Cast Iron Tofu Stir Fry"
 
 ---
 ### Prep Time: 20 mins | Cook Time: 15 mins
-
 ---
 
 ### Ingredients
