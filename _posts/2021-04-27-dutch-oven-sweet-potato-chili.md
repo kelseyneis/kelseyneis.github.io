@@ -5,7 +5,7 @@ author: "Amy Lou"
 ---
 
 ---
-### Prep Time: 10 mins | Cook Time: 50 mins
+### Prep Time: 10 mins | Cook Time: 50 mins | Serves: 6
 ---
 
 ### Ingredients
