@@ -4,6 +4,8 @@ title: "Cast Iron Tofu Stir Fry"
 author: "Amy Neis"
 ---
 
+![IMG_7191 copy](https://user-images.githubusercontent.com/18628685/116429899-f137ba80-a80b-11eb-91bb-be95262596f6.JPG)
+
 ---
 ### Prep Time: 20 mins | Cook Time: 15 mins
 ---
