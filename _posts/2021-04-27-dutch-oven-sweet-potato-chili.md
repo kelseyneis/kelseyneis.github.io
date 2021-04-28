@@ -11,7 +11,7 @@ author: "Amy Lou"
 ### Ingredients
 
 ###### Step 1
-- [ ] 1 tbsp olive oil
+- 1 tbsp olive oil
 - 2 small-ish sweet potatoes, peeled and cut into 1/2 inch cubes
 - 1 red pepper, diced
 - 1 small onion (just pick your favorite kind), minced
