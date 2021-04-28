@@ -3,7 +3,7 @@
 1. Go to issues and select any issue
 2. Drag and drop your image into the comment box
 3. After it uploads, copy the text (should look something like this: 
-![IMG_7191 copy](https://user-images.githubusercontent.com/18628685/116429899-f137ba80-a80b-11eb-91bb-be95262596f6.JPG))
+`![IMG_7191 copy](https://user-images.githubusercontent.com/18628685/116429899-f137ba80-a80b-11eb-91bb-be95262596f6.JPG)`)
 4. Paste the text from #3 into the post where you want the image
 
 ## Development
