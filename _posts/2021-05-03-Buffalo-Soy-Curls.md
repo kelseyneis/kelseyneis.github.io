@@ -11,7 +11,7 @@ author: "Amy Lou"
 ### Ingredients
 
 ###### Buffalo Curls
-- 4 oz soy curls
+- 4 oz dry soy curls
 - ¼ cup corn starch
 - ½ tsp garlic powder
 - ½ tsp onion powder
