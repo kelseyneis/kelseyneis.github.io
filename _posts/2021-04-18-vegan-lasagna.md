@@ -2,7 +2,6 @@
 title: "Vegan Lasagna"
 layout: post
 author: "Amy Neis"
-related_posts: ["2021-04-09-cast-iron-tofu-stir-fry"]
 ---
 
 ---
