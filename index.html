@@ -6,7 +6,7 @@ title: Home
 <head>
   <script type="text/javascript">
   DiscourseEmbed = { discourseUrl: 'https://enormousness.monster/',
-                     discourseEmbedUrl: 'http://enormousness.net' };
+                     discourseEmbedUrl: 'http://enormousness.net/' };
 
   (function() {
     var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
@@ -16,6 +16,7 @@ title: Home
 </script>
 </head>
 
+<body>
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
@@ -48,3 +49,4 @@ title: Home
 </div>
 
 <div id='discourse-comments'></div>
+</body>
