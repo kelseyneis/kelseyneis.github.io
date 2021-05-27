@@ -2,6 +2,19 @@
 layout: default
 ---
 
+<head>
+  <script type="text/javascript">
+  DiscourseEmbed = { discourseUrl: 'https://enormousness.monster/',
+                     discourseEmbedUrl: 'http://enormousness.net/<%= current_page.url %>' };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
+</head>
+
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <p class="post-author">{{ page.author }}</p>
@@ -25,3 +38,5 @@ layout: default
   </ul>
 </aside>
 {% endif %}
+
+<div id='discourse-comments'></div>
