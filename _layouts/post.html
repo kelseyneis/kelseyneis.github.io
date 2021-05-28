@@ -47,33 +47,6 @@ layout: default
         {% endif %}
       {% endfor %}
     {% endfor %}
-    
-    {% assign posts_left = RELATED_POSTS_THRESHOLD | minus: related_posts_count %}
-    {% unless posts_left == 0 %}
-      {% for post in site.related_posts %}
-        {% if posts_left == 0 %}
-          {% break %}
-        {% endif %}
-        
-        {% assign already_related = false %}
-        {% for tag in posts.tags %}
-          {% if page.tags contains tag %}
-            {% assign already_related = true %}
-            {% break %}
-          {% endif %}
-        {% endfor %}
-        {% unless already_related %}
-          {% assign posts_left = posts_left | minus: 1 %}
-           <li>
-            <a href="{{ site.baseurl }}{{ post.url }}">
-              {{ post.title }}
-              <small>{{ post.author }}</small> - 
-              <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-            </a>
-          </li>
-        {% endunless %}
-    {% endfor %}
-  {% endunless %}
   </ul>
 </aside>
 {% endif %}
