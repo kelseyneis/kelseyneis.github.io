@@ -36,7 +36,7 @@ author: "Amy Lou"
 - 2 tsp. chili powder
 - 1 tsp. ground cumin
 - ½ tsp. salt
-- 1.5-2 cups cooked Farro (1/2 cup uncooked)
+- 1.5-2 cups cooked Farro (½ cup uncooked)
 - 1 red bell pepper, sliced
 - 1 small bunch baby broccoli (or broccolini), chopped into small florets 
 - 1 large cucumber, sliced
