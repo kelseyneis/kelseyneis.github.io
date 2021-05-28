@@ -7,6 +7,11 @@
 4. No need to save the comment. The image should be saved in GitHub just by dragging it
 5. Paste the text from #3 into the post where you want the image
 
+## Relating recipes
+
+1. Create a `.md` file in `_tags` (use `italian.md` as an example)
+2. Add `tags: italian` or if there are multiple tags, `tags: [italian, mexican]` (replacing 'italian' with your tag name) to the front matter of all recipes you want related to each other
+
 ## Development
 
 Poole has two branches, but only one is used for active development.
