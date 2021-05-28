@@ -47,3 +47,16 @@ nav:
 
   - title: About
     url: /about
+    
+collections:
+  tags:
+    output: true
+    permalink: tag/:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: tags
+    values:
+      layout: tag
