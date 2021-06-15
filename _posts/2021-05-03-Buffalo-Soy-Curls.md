@@ -18,7 +18,6 @@ author: "Amy Lou"
 - 1 tbsp poultry seasoning
 - Fresh cracked black pepper
 - 1 tbsp olive oil
-- Vegan ranch dressing
 
 ###### Buffalo Sauce
 - ½ cups Franks Red Hot
@@ -31,6 +30,7 @@ author: "Amy Lou"
 - 1-2 celery ribs, chopped
 - Shredded carrots
 - Romaine
+- Vegan ranch dressing
 
 ---
 
