@@ -26,6 +26,7 @@ author: "Amy Lou"
 - 2 celery stalks, diced
 - optional summer twist: add diced apple! Sweet varieties such as Fiji or Gala are a nice addition.
 
+---
 
 ### Method
 1. In a small bowl, whisk the dressing ingredients until smooth, set aside.
