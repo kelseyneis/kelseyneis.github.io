@@ -10,11 +10,11 @@ author: "Amy Lou"
 
 ### Ingredients
 
-**Pasta**
+##### Pasta
 - 8 oz dry pasta of choice
 - 2 cups fresh spinach, tightly packed
 
-**Roasted Broccoli**
+##### Roasted Broccoli
 - 1 large head broccoli, cut into small florets 
 - 1 tsp olive oil
 - 1/2 tsp garlic powder
@@ -22,7 +22,7 @@ author: "Amy Lou"
 - 1/2 tsp sea salt
 - 1/2 tsp ground black pepper
 
-**Cream Sauce** 
+##### Cream Sauce
 - 5 cloves of garlic
 - 2 tbsp diced white onion
 - 6 oz silken tofu
@@ -35,7 +35,7 @@ author: "Amy Lou"
 - 1/2 cup plain non-dairy milk
 - 1 tbsp tapioca starch 
 
-**Garnish Ideas**
+##### Garnish Ideas
 - Fresh basil
 - Shaved almonds
 - Ground pepper
