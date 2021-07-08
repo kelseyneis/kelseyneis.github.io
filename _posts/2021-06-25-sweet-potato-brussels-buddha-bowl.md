@@ -10,14 +10,14 @@ author: "Amy Lou"
 
 ### Ingredients
 
-**Bowl Ingredients**
+##### Bowl Ingredients
 - 2 sweet poatoes (2 1/2 lbs), cut into 1/2 inch cubes
 - 1 1/2 lbs Brussels Sprouts, trimmed and sliced into quarters
 - 1 tbsp coconut or olive oil
 - 1 bunch kale, stems removed and thinly sliced
 - 1 cup raw quinoa, rinced
 
-**Roasted Garbanzo Beans** (Optional)
+##### Roasted Garbanzo Beans (Optional)
 - 1 15 oz can garbanzo beans
 - 1 Tbsp olive oil
 - 1 tsp garlic powder
@@ -26,7 +26,7 @@ author: "Amy Lou"
 - 1/4 tsp salt
 - 1/4 tsp turmeric, optional
 
-**Tahini Sauce**
+##### Tahini Sauce
 - 1/4 cup tahini
 - 2 tbsp rice wine venegar
 - 2 tbsp tamari
@@ -34,7 +34,7 @@ author: "Amy Lou"
 - 1/4 tsp crushed red pepper flakes
 - 1/4 cup water, as needed to thin sauce
 
-**Garnish Ideas**
+##### Garnish Ideas
 - Avocado, diced
 - Slivered almonds or walnuts
 - fresh cilantro, basil
