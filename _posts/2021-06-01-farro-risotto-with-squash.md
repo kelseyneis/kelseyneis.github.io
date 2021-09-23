@@ -5,8 +5,9 @@ author: "Amy Neis"
 ---
 
 ---
-### Prep Time:30 mins* | Cook Time: 45 minutes
-- This recipe has pre-steps for preparing the Farro. Please see step 1 before beginning!*
+### Prep Time: 30 mins* | Cook Time: 45 minutes
+- This recipe has pre-steps for preparing the Farro. Please see Step 1 before beginning!*
+
 ---
 
 ### Vegetables
